@@ -31,8 +31,8 @@
       "version": "0.0.3",
       "file": "fm_patch_0003.pck",
       "url": "https://github.com/Ditto2778/hot-update-demo-server/releases/download/dev-0.0.3/fm_patch_0003.pck",
-      "sha256": "ee9802d054d065dcbf4db463fc35f9d32d72584f92c8ab3d69c6081710547528",
-      "bytes": 4800,
+      "sha256": "dde6841183f13a6fec2e09092f92661caf247ec727fb7433b2c6241d81a49586",
+      "bytes": 4832,
       "load_order": 30
     }
   ],
